@@ -19,7 +19,7 @@ dependencies:
   video_player: ^0.10.10
   chewie:
     git:
-      url: https://github.com/see2hao/chewie.git
+      url: http://feifei@39.108.239.82:8099/r/chewie.git
 
   # Plugin for rendering the <iframe> tag.
   webview_flutter: ^0.3.21
