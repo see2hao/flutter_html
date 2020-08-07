@@ -20,6 +20,7 @@ dependencies:
   chewie:
     git:
       url: http://feifei@39.108.239.82:8099/r/chewie.git
+      ref: 7a1777
 
   # Plugin for rendering the <iframe> tag.
   webview_flutter: ^0.3.21
